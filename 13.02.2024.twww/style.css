@@ -1,3 +1,9 @@
 body{
     background-color: aquamarine;
 }
+p{
+    border: 4px white dotted;
+    background-color: burlywood;
+    width: 200px;
+    height: 100px;
+}
