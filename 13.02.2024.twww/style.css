@@ -10,3 +10,7 @@ p {
 div {
     font-size: 300px;
 }
+
+#divNowy {
+    position: absolute;
+}
