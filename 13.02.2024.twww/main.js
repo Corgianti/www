@@ -3,5 +3,5 @@ var x = 0;
 
 setInterval(() => {
     x += 10;
-    divNowy.style.left = x + "px";
+    divNowy.style.fontSize = x + "px";
 }, 33);
